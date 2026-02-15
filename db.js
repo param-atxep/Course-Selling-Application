@@ -1,6 +1,3 @@
-const mongoose = require("mongoose");
-console.log("connected To Mongooese")
-mongoose.connect("mongodb+srv://param:Params47@cluster0.ofhkx0r.mongodb.net/coursesell-app")
 const Schema = mongoose.Schema;
 const ObjectId = mongoose.Types.ObjectId;
 const userSchema = new Schema({
