@@ -1,4 +1,4 @@
-Create a course selling app
+Create a course selling app\n
 1.Initialize a new Node.js project 
 2.Add Express, jsonwebtoken, mongoose to it as a dependency Create index.js 
 3.Add route skeleton for user login, signup, purchase a course, sees all courses, sees the purchased courses course 
@@ -9,4 +9,5 @@ Create a course selling app
 
 8.Use cookies instead of JWT for auth
 9.Add a rate limiting middleware Frontend in ejs (low pri) Frontend in React
+
 
