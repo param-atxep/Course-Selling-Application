@@ -1,4 +1,4 @@
-## Create a course selling app
+##  A course selling app Guide
 
  - Initialize a new Node.js project
  - Add Express, jsonwebtoken, mongoose to it as a dependency 
@@ -17,3 +17,4 @@
   - Add a rate limiting middleware
   - Frontend in ejs (low pri)
   - Frontend in React
+
